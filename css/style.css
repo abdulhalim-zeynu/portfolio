@@ -14,7 +14,7 @@ footer{
     left: 0;
     text-align: center;
 }
-nav{
+nav a{
     color: white !important;
 }
 form{
@@ -22,4 +22,21 @@ form{
     padding: 30px;
     width: 70%;
     margin: 0 auto;
+}
+
+section img{
+    width: 100%;
+    height: 200px;
+}
+.inner{
+    position: relative;
+}
+.imgText{
+    background-color: teal;
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+    left: 0;
+    color: white;
+    text-align: center;
 }

@@ -17,3 +17,9 @@ footer{
 nav{
     color: white !important;
 }
+form{
+    background-color: white;
+    padding: 30px;
+    width: 70%;
+    margin: 0 auto;
+}

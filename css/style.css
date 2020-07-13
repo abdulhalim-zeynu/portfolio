@@ -43,6 +43,7 @@ section img{
 .myImg img{
     width: 90% !important;
     height: 303px !important;
+    margin: 0 auto;
 }
 .aboutMe{
     text-align: center;

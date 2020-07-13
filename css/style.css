@@ -1,5 +1,19 @@
 *{
     padding: 0px;
     margin: 0px;
+}
+body{
     background-color: silver;
+}
+footer{
+    color: white;
+    padding: 60px auto;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+nav{
+    color: white !important;
 }
